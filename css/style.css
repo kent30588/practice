@@ -1,0 +1,41 @@
+body{
+	background-color: rgba(248, 245, 212, 0.61);
+}
+
+.red-text{
+	color: red;
+}
+
+.alpha-text{
+	color: rgba(26, 11, 238, 0.5)
+}
+
+.text-top, .color-red{
+	color:rgb(156, 7, 7);
+	text-align: center;
+	font-weight: 600;
+	font-size: 20px;
+
+}
+
+.text-centr{
+	text-align: center;
+	font-weight: 600;
+}
+
+.fw-600{
+	font-weight: 600;
+}
+
+.uppercase{
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.text-underlined{
+	text-decoration: underline;
+}
